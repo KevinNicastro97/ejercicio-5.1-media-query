@@ -1,0 +1,32 @@
+p {
+    background-color: rgb(156, 156, 156);
+}
+h2 {
+    font-size: 20px;
+    font-weight: 800;
+}
+.lista-2 li {
+    display: none;
+}
+a {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: green;
+}
+p em {
+    color: brown;
+}
+.contenedor h3 {
+ background-color: rgb(175, 37, 37);
+}
+h1 + p {
+    font-size: 30px;
+}
+#principal {
+    border: solid black 2px;
+    background-color: yellow;
+}
